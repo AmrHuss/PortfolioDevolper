@@ -14,6 +14,7 @@ import {
   AiOutlineUser,
 } from "react-icons/ai";
 
+
 import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
@@ -58,6 +59,7 @@ function NavBar() {
                 <AiOutlineHome style={{ marginBottom: "2px" }} /> Home
               </Nav.Link>
             </Nav.Item>
+            
 
             <Nav.Item>
               <Nav.Link
@@ -81,17 +83,6 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
-
-            <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/resume"
-                onClick={() => updateExpanded(false)}
-              >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Resume
-              </Nav.Link>
-            </Nav.Item>
-
         
 
             <Nav.Item className="fork-btn">

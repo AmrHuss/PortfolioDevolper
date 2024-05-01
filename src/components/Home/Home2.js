@@ -19,30 +19,37 @@ function Home2() {
               Let us  <span className="purple"> Introduce </span> Ourselves
             </h1>
             <p className="home-about-body">
-              Amr -
+              Amr - Computer science student
 
               <br />
               
-              Mehdi -
+              Mehdi - Computer science student
               
               <br />
               
-              Sean -
-              <br />
+              Sean - Cyber Security student
               
-              Adam -
+              <br /> 
+              Adam - Game Development student
 
               <br />
               
-              Georgia -
+              Georgia - Computer science student
               <br />
              
-              Abdi -
+              Abdi - Computer science student
               <br />
              
-              Farid -
+              Farid - Computer science student
+
               <br />
-              Sai -
+
+              Sai - Computer science student
+              <br />
+
+              Rohan - Game Development student
+
+              <br/>
 
              
               <i>

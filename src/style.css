@@ -215,6 +215,12 @@ button:focus {
   transform-origin: 70% 70%; /* Pivot around the bottom-left palm */
   display: inline-block;
 }
+.navbar-nav-center {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
 
 @keyframes wave-animation {
   0% {
