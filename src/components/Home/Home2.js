@@ -37,7 +37,8 @@ function Home2() {
               Georgia - Computer science student
               <br />
              
-              Abdi - Computer science student
+              Abdi - Cyber Security student
+              
               <br />
              
               Farid - Computer science student
